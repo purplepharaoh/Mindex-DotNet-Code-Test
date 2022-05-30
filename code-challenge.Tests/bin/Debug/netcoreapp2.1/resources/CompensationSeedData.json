@@ -1,0 +1,9 @@
+[
+    {
+        "Employee": {
+            "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f"
+        },
+        "Salary": "150000",
+        "EffectiveDate" : "10/12/2000"
+    }
+]
